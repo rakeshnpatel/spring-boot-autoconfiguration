@@ -5,10 +5,6 @@ import org.springframework.context.annotation.Configuration;
 
 import com.provider.example.TestBean;
 
-/**
- * @author AC67870
- *
- */
 @Configuration
 public class MainOverrideConfiguration {
 
